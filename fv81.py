@@ -1,6 +1,5 @@
 import turtle
 
-# Встановлюємо чорний фон
 turtle.bgcolor("black")
 
 t = turtle.Turtle()
